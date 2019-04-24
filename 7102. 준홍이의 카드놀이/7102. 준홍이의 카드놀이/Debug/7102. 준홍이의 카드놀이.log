@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\5_work_space\algorithm\woony's algorithm study\7102. 준홍이의 카드놀이\7102. 준홍이의 카드놀이\main.cpp(24): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+e:\5_work_space\algorithm\woony's algorithm study\7102. 준홍이의 카드놀이\7102. 준홍이의 카드놀이\main.cpp(24): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  7102. 준홍이의 카드놀이.vcxproj -> E:\5_Work_Space\algorithm\Woony's Algorithm Study\7102. 준홍이의 카드놀이\Debug\7102. 준홍이의 카드놀이.exe
+  7102. 준홍이의 카드놀이.vcxproj -> E:\5_Work_Space\algorithm\Woony's Algorithm Study\7102. 준홍이의 카드놀이\Debug\7102. 준홍이의 카드놀이.pdb (Full PDB)

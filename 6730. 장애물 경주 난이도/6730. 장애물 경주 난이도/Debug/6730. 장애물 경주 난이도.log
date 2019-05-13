@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\5_work_space\algorithm\woony's algorithm study\6730. 장애물 경주 난이도\6730. 장애물 경주 난이도\main.cpp(18): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+e:\5_work_space\algorithm\woony's algorithm study\6730. 장애물 경주 난이도\6730. 장애물 경주 난이도\main.cpp(18): warning C4309: '초기화 중': 상수 값이 잘립니다.
+e:\5_work_space\algorithm\woony's algorithm study\6730. 장애물 경주 난이도\6730. 장애물 경주 난이도\main.cpp(19): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+e:\5_work_space\algorithm\woony's algorithm study\6730. 장애물 경주 난이도\6730. 장애물 경주 난이도\main.cpp(19): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  6730. 장애물 경주 난이도.vcxproj -> E:\5_Work_Space\algorithm\Woony's Algorithm Study\6730. 장애물 경주 난이도\Debug\6730. 장애물 경주 난이도.exe
+  6730. 장애물 경주 난이도.vcxproj -> E:\5_Work_Space\algorithm\Woony's Algorithm Study\6730. 장애물 경주 난이도\Debug\6730. 장애물 경주 난이도.pdb (Full PDB)
